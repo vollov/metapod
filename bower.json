@@ -1,0 +1,12 @@
+{
+  "name": "metapod",
+  "version": "2.9.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.5",
+    "jquery": "~2.1.0",
+    "underscore": "~1.8.3",
+    "vue": "^2.3.4",
+    "vue-resource": "^1.3.4"
+  }
+}
